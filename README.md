@@ -7,3 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut ini adalah daftar Volunteer yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Yudi Ari Nugroho, [test.co.id](https://test.co.id).
